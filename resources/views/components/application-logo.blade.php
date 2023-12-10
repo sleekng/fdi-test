@@ -1,0 +1,1 @@
+<img class="w-20" src="storage/img/fdi_logo.png" alt="">
